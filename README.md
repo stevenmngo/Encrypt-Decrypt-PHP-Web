@@ -8,8 +8,10 @@
 ## Introduction 
   
 * Simple Substitution
+<p>
     Each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a 
     left shift of 3, D would be replaced by A, E would become B, and so on (wikipedia).
+</p>  
 * Columnar Transposition 
     In a columnar transposition, the message is written out in rows of a fixed length, and then read out again column by 
     column, and the columns are chosen in some scrambled order. Both the width of the rows and the permutation of the columns 
