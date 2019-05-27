@@ -52,6 +52,19 @@ Build a MySQL database that:
 4. Start the XAMPP program.
 
 ------------------------------
+*  Text Box Input
+<img width="680" alt="Screen Shot 2019-05-26 at 10 21 19 PM" src="https://user-images.githubusercontent.com/36215446/58437787-6cbcea00-8080-11e9-9f39-b69b107a55be.png">
 
 
+* Text File Input 
+<img width="681" alt="Screen Shot 2019-05-26 at 10 22 08 PM" src="https://user-images.githubusercontent.com/36215446/58437754-3e3f0f00-8080-11e9-85ce-429693ff4b04.png">
+
+* Sign In 
+<img width="682" alt="Screen Shot 2019-05-26 at 10 22 38 PM" src="https://user-images.githubusercontent.com/36215446/58437841-af7ec200-8080-11e9-9022-e22ffcee5245.png">
+
+* Sign Up
+<img width="679" alt="Screen Shot 2019-05-26 at 10 23 02 PM" src="https://user-images.githubusercontent.com/36215446/58437875-ca513680-8080-11e9-89eb-f0f118af9400.png">
+
+* After Signed In 
+<img width="680" alt="Screen Shot 2019-05-26 at 10 24 17 PM" src="https://user-images.githubusercontent.com/36215446/58437912-ed7be600-8080-11e9-8031-0842175d9b75.png">
 
