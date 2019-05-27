@@ -34,8 +34,8 @@ Build a MySQL database that:
 * Simple Substitution <br/>
     Each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a 
     left shift of 3, D would be replaced by A, E would become B, and so on (wikipedia).  
-* Columnar Transposition <br/>
-    In a columnar transposition, the message is written out in rows of a fixed length, and then read out again column by 
+* Double Transposition <br/>
+    In a Double transposition, the message is written out in rows of a fixed length, and then read out again column by 
     column, and the columns are chosen in some scrambled order. Both the width of the rows and the permutation of the columns 
     are defined by a keyword (wikipedia). 
 * RC4 <br/>
